@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=B612+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Georama:wght@300&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+}
+.top-header {
+  width: 100%;
+  height: 80vh;
+  background-image: url("./bg.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #fff;
+}
+.logo {
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Righteous', cursive; 
+}
+.home {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 90%;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 2px;
+}
+#navbar {
+    padding-top: 20px;
+    margin: 0 10%;
+}
+#design {
+    text-align: center;
+    font-size: 900%;
+    margin-top: 70px;
+    font-family: 'Roboto', sans-serif;
+}
+#box1 {
+    text-align: center;
+    padding-top: 40px;
+    letter-spacing: 3px;
+    font-family: 'B612 Mono', monospace;
+    font-weight: 600;
+}
+#box2 {
+    text-align: center;
+    font-size: 200%;
+    color: rgba(94, 94, 109, 0.5);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+#box3 {
+    font-weight: bold;
+}
+#box4 {
+    text-align: center;
+    font-family: 'Georama', sans-serif;
+}
+#box5 {
+    text-align: center;
+    font-size: 200%;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    color: rgba(94, 94, 109, 0.5);
+}
+#box6 {
+    text-align: center;
+    font-family: 'Georama', sans-serif;
+
+}
+#box7 {
+    display: inline-block;
+    font-family: 'Georama', sans-serif;
+    font-size: 15px;
+    margin: 0 10%;
+}
+#box8 {
+    font-weight: bolder;
+    font-size: 200%;
+}
+#box9 {
+    display: inline-block;
+    font-family: 'Georama', sans-serif;
+    font-size: 15px;
+    margin: 0 10%;
+}
+#box10 {
+    font-weight: bolder;
+    font-size: 200%;
+}
+#box11 {
+    display: inline-block;
+    font-family: 'Georama', sans-serif;
+    font-size: 15px;
+    margin: 0 23%;
+}
+#box12 {
+    font-weight: bolder;
+    font-size: 200%;
+}
+#box13 {
+    display: inline-block;
+    font-family: 'Georama', sans-serif;
+    font-size: 15px;
+    margin: 0 9%;
+}
+#box14 {
+    font-weight: bolder;
+    font-size: 200%;
+}
+#box15 {
+    border: 1px sold #000;
+    color: #fff;
+    background-color: #000;
+    height: 330px;
+    width: 200px;
+    display: inline-block;
+    font-family: 'Georama', sans-serif;
+    text-align: center;
+}
+#box16 {
+    font-size: 130%;
+}
+#box17 {
+    width: 150px;
+    height: 150px;
+}
